@@ -2,7 +2,7 @@ package ${escapeKotlinIdentifiers(packageName)}
 
 import android.os.Bundle
 import com.tlp.record.kotlinExtends.activityScope
-import ${rootPackageName}.ui.baseVM.BaseVMActivity
+import com.tlp.recordutils.base.BaseVMActivity
 import ${rootPackageName}.R
 import ${rootPackageName}.databinding.${layoutDataBind} 
 import ${rootPackageName}.BR
